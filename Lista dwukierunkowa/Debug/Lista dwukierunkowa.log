@@ -1,0 +1,45 @@
+﻿  Lista dwukierunkowa.cpp
+C:\Users\sacri\source\repos\Lista dwukierunkowa\Lista dwukierunkowa.cpp(49,1): warning C4812: przestarzała deklaracja stylu: zamiast niej użyj "wartosc<T>::wartosc"
+C:\Users\sacri\source\repos\Lista dwukierunkowa\Lista dwukierunkowa.cpp(291,11): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\sacri\source\repos\Lista dwukierunkowa\Lista dwukierunkowa.cpp(290): message : podczas kompilowania funkcji składowej „double lista<bobo>::porownanie_double(T *,T *)” klasy klasa szablon
+          with
+          [
+              T=bobo
+          ]
+C:\Users\sacri\source\repos\Lista dwukierunkowa\Lista dwukierunkowa.cpp(389): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „double lista<bobo>::porownanie_double(T *,T *)” funkcji szablon
+          with
+          [
+              T=bobo
+          ]
+C:\Users\sacri\source\repos\Lista dwukierunkowa\Lista dwukierunkowa.cpp(87): message : podczas kompilowania funkcji składowej „void lista<bobo>::dodaj_koniec(T *)” klasy klasa szablon
+          with
+          [
+              T=bobo
+          ]
+C:\Users\sacri\source\repos\Lista dwukierunkowa\Lista dwukierunkowa.cpp(467): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void lista<bobo>::dodaj_koniec(T *)” funkcji szablon
+          with
+          [
+              T=bobo
+          ]
+C:\Users\sacri\source\repos\Lista dwukierunkowa\Lista dwukierunkowa.cpp(451): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „lista<bobo>” klasy klasa szablon
+C:\Users\sacri\source\repos\Lista dwukierunkowa\Lista dwukierunkowa.cpp(49,1): warning C4812: przestarzała deklaracja stylu: zamiast niej użyj "wartosc<T>::wartosc"
+          with
+          [
+              T=bobo
+          ]
+C:\Users\sacri\source\repos\Lista dwukierunkowa\Lista dwukierunkowa.cpp(50): message : podczas kompilowania funkcji składowej „wartosc<T>::wartosc(void)” klasy klasa szablon
+          with
+          [
+              T=bobo
+          ]
+C:\Users\sacri\source\repos\Lista dwukierunkowa\Lista dwukierunkowa.cpp(89): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „wartosc<T>::wartosc(void)” funkcji szablon
+          with
+          [
+              T=bobo
+          ]
+C:\Users\sacri\source\repos\Lista dwukierunkowa\Lista dwukierunkowa.cpp(89): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „wartosc<T>” klasy klasa szablon
+          with
+          [
+              T=bobo
+          ]
+  Lista dwukierunkowa.vcxproj -> C:\Users\sacri\source\repos\Lista dwukierunkowa\Debug\Lista dwukierunkowa.exe

@@ -40,7 +40,7 @@
         }
         Add-Type -Assembly System.Windows.Forms
         Add-Type -Assembly System.Drawing
-        $Path = "\\dsg.dk\dsg-dfs-data\_shared\SSC_RPA\Dashboard"
+        $Path = "na"
         While($true)
         {
             Try 
